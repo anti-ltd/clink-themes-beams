@@ -49,7 +49,9 @@ The previews are captured from Clink for iOS, using the themes in this repositor
 
 ## Use a Beams theme
 
-In Clink builds that include this collection, open **Customize → Look → Beams** and choose a theme. The themes are bundled with Clink for iOS and Android, so they are free and available offline. Each theme includes a light and a dark appearance for Clink's existing appearance selection.
+In Clink builds that include this repository, open **Customize → Look → Beams** and download a theme. Beams is a default linked repository on iOS and Android and cannot be removed from the repository list. Downloads are free, and installed themes remain available offline. Each theme includes a light and a dark appearance for Clink's existing appearance selection.
+
+The repository's first GitHub release must be published before themes can be downloaded. Theme files are downloaded from that release; they are not bundled in the app.
 
 To customise a theme, make an editable copy in Clink. You can change its colours, key style, material, depth, and material adjustments, then choose **Export** from the theme menu to save a `.clinktheme` file.
 
@@ -61,16 +63,29 @@ You do not need to build Clink to edit the collection.
 2. Add a colourway to [`palettes.json`](palettes.json), following an existing entry. Give it a permanent lowercase `id` beginning with `beams-` and a clear visible `name`.
 3. Supply both `light` and `dark` palettes. Each appearance has separate background, letter key, function key, and Return key colours.
 4. The generator checks that the curated collection contains 22 themes and begins with Beams. If you are intentionally adding or removing a theme, update the collection count in `tools/generate.py`. Keep the existing IDs stable.
-5. Generate and check the paired theme documents:
+5. Generate and check the paired theme documents and release manifest:
 
    ```sh
    python3 tools/generate.py
    python3 tools/generate.py --check
+   python3 tools/build-manifest.py
+   python3 tools/build-manifest.py --check
+   python3 -m unittest discover -s tests
    ```
 
 6. Open the generated `.clinktheme` file in Clink and check both appearances before sharing it.
 
 The palette table is the editable source for this collection. Regenerating replaces the files in `Themes/`, so put collection changes in `palettes.json`. Exported personal themes can be kept separately.
+
+## Add your repository to Clink
+
+For a fork, open **General → Repositories** in Clink and add `owner/repository`, for example:
+
+```text
+your-name/clink-themes-beams
+```
+
+After publishing its first release, open **Customize → Look**, choose your repository's chip, and download a theme. Downloaded themes stay read-only, but anyone can make an editable copy.
 
 ## Make a theme with an AI agent
 
@@ -78,9 +93,15 @@ Give an AI coding agent the instructions in [`PROMPT.md`](PROMPT.md), then descr
 
 ## What Clink verifies
 
-Beams themes contain appearance data only. Each `.clinktheme` has one stable identity and a complete light/dark pair. The collection check verifies that the theme documents and catalog match their source palettes.
+Beams themes contain appearance data only. Each `.clinktheme` has one stable identity and a complete light/dark pair. The collection check verifies that the theme documents and catalog match their source palettes. The manifest generator records a matching preview, SHA-256 hash, and byte count for every download.
 
-Clink checks theme documents when they are imported. Theme files cannot contain executable code. These themes contain no photographs or custom typing behaviour.
+Clink accepts public HTTPS GitHub release manifests. Each theme must come from that repository's release, be a `.clinktheme` JSON file no larger than 128 KB, and match the manifest's hash and byte count. Clink verifies the file before installing it. These themes contain no photographs, executable code, or custom typing behaviour.
+
+## Publishing is automatic
+
+Keep `Themes/`, `palettes.json`, `catalog.json`, `tools/`, `tests/`, and `.github/workflows/` in your fork. Generate and validate the theme documents and manifest, then push to `main`. GitHub Actions validates the collection and publishes all 22 paired theme files with `manifest.json`, marking the release as `latest` so Clink can discover it.
+
+Release tags are derived from the theme files and catalog. Changed content gets a new release, keeping older cached manifests linked to their matching files. The README previews stay in the repository and are not theme download assets.
 
 ## Refresh the previews
 

@@ -1,0 +1,42 @@
+name: Release Beams themes
+
+on:
+  push:
+    branches: [main]
+    paths: ["Themes/**", "palettes.json", "catalog.json", "manifest.json", "tools/**", "tests/**", ".github/workflows/release.yml"]
+  workflow_dispatch:
+
+concurrency:
+  group: beams-theme-release
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 tools/generate.py --check
+      - run: python3 -m unittest discover -s tests
+      - run: python3 tools/build-manifest.py
+      - name: Publish immutable theme assets
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          shopt -s nullglob
+          assets=(Themes/*.clinktheme manifest.json)
+          tag=$(python3 -c 'import json; print(json.load(open("manifest.json"))["version"])')
+          if draft=$(gh release view "$tag" --json isDraft --jq .isDraft); then
+            if [ "$draft" = true ]; then
+              gh release upload "$tag" "${assets[@]}" --clobber
+              gh release edit "$tag" --draft=false --latest
+            else
+              gh release edit "$tag" --latest
+            fi
+          else
+            gh release create "$tag" "${assets[@]}" --target "$GITHUB_SHA" --title "Beams themes" --draft
+            gh release edit "$tag" --draft=false --latest
+          fi
