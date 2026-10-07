@@ -1,0 +1,386 @@
+{
+  "id": "beams-samurai",
+  "name": "Samurai",
+  "source": "beamsRepository",
+  "isDark": false,
+  "background": {
+    "r": 0.87843137,
+    "g": 0.85098039,
+    "b": 0.78039216,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.94509804,
+    "g": 0.91764706,
+    "b": 0.85490196,
+    "a": 1
+  },
+  "keyText": {
+    "r": 0.59215686,
+    "g": 0.56470588,
+    "b": 0.50196078,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.69411765,
+    "g": 0.18431373,
+    "b": 0.19607843,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 1.0,
+    "g": 0.90196078,
+    "b": 0.84313725,
+    "a": 1
+  },
+  "accent": {
+    "r": 0.1254902,
+    "g": 0.10980392,
+    "b": 0.09803922,
+    "a": 1
+  },
+  "material": "3d",
+  "threeDVariant": "retro",
+  "retroFinish": "soft",
+  "retroDepth": 4,
+  "keySurfaceMaterial": "grain",
+  "liquidGlass": false,
+  "grainDensity": 1,
+  "grainSize": 0.5,
+  "grainStrength": 0.025,
+  "keyFontDesign": "default",
+  "keyFontWeight": "regular",
+  "keyCapShape": "rect",
+  "groupPaint": {
+    "letters": {
+      "cornerRadius": 6
+    },
+    "numbers": {
+      "cornerRadius": 6
+    },
+    "punctuation": {
+      "cornerRadius": 6
+    },
+    "modifiers": {
+      "cornerRadius": 6
+    },
+    "return": {
+      "fill": {
+        "r": 0.1254902,
+        "g": 0.10980392,
+        "b": 0.09803922,
+        "a": 1
+      },
+      "text": {
+        "r": 0.78823529,
+        "g": 0.67843137,
+        "b": 0.49803922,
+        "a": 1
+      },
+      "activeFill": {
+        "r": 0.1254902,
+        "g": 0.10980392,
+        "b": 0.09803922,
+        "a": 1
+      },
+      "activeText": {
+        "r": 0.78823529,
+        "g": 0.67843137,
+        "b": 0.49803922,
+        "a": 1
+      }
+    },
+    "space": {
+      "fill": {
+        "r": 0.94509804,
+        "g": 0.91764706,
+        "b": 0.85490196,
+        "a": 1
+      },
+      "text": {
+        "r": 0.59215686,
+        "g": 0.56470588,
+        "b": 0.50196078,
+        "a": 1
+      },
+      "activeFill": {
+        "r": 0.94509804,
+        "g": 0.91764706,
+        "b": 0.85490196,
+        "a": 1
+      },
+      "activeText": {
+        "r": 0.59215686,
+        "g": 0.56470588,
+        "b": 0.50196078,
+        "a": 1
+      }
+    },
+    "backspace": {
+      "pressed": {
+        "r": 0.1254902,
+        "g": 0.10980392,
+        "b": 0.09803922,
+        "a": 1
+      }
+    }
+  },
+  "pairedVariants": [
+    {
+      "id": "beams-samurai",
+      "name": "Samurai",
+      "source": "beamsRepository",
+      "isDark": false,
+      "background": {
+        "r": 0.87843137,
+        "g": 0.85098039,
+        "b": 0.78039216,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.94509804,
+        "g": 0.91764706,
+        "b": 0.85490196,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.59215686,
+        "g": 0.56470588,
+        "b": 0.50196078,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.69411765,
+        "g": 0.18431373,
+        "b": 0.19607843,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 1.0,
+        "g": 0.90196078,
+        "b": 0.84313725,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.1254902,
+        "g": 0.10980392,
+        "b": 0.09803922,
+        "a": 1
+      },
+      "material": "3d",
+      "threeDVariant": "retro",
+      "retroFinish": "soft",
+      "retroDepth": 4,
+      "keySurfaceMaterial": "grain",
+      "liquidGlass": false,
+      "grainDensity": 1,
+      "grainSize": 0.5,
+      "grainStrength": 0.025,
+      "keyFontDesign": "default",
+      "keyFontWeight": "regular",
+      "keyCapShape": "rect",
+      "groupPaint": {
+        "letters": {
+          "cornerRadius": 6
+        },
+        "numbers": {
+          "cornerRadius": 6
+        },
+        "punctuation": {
+          "cornerRadius": 6
+        },
+        "modifiers": {
+          "cornerRadius": 6
+        },
+        "return": {
+          "fill": {
+            "r": 0.1254902,
+            "g": 0.10980392,
+            "b": 0.09803922,
+            "a": 1
+          },
+          "text": {
+            "r": 0.78823529,
+            "g": 0.67843137,
+            "b": 0.49803922,
+            "a": 1
+          },
+          "activeFill": {
+            "r": 0.1254902,
+            "g": 0.10980392,
+            "b": 0.09803922,
+            "a": 1
+          },
+          "activeText": {
+            "r": 0.78823529,
+            "g": 0.67843137,
+            "b": 0.49803922,
+            "a": 1
+          }
+        },
+        "space": {
+          "fill": {
+            "r": 0.94509804,
+            "g": 0.91764706,
+            "b": 0.85490196,
+            "a": 1
+          },
+          "text": {
+            "r": 0.59215686,
+            "g": 0.56470588,
+            "b": 0.50196078,
+            "a": 1
+          },
+          "activeFill": {
+            "r": 0.94509804,
+            "g": 0.91764706,
+            "b": 0.85490196,
+            "a": 1
+          },
+          "activeText": {
+            "r": 0.59215686,
+            "g": 0.56470588,
+            "b": 0.50196078,
+            "a": 1
+          }
+        },
+        "backspace": {
+          "pressed": {
+            "r": 0.1254902,
+            "g": 0.10980392,
+            "b": 0.09803922,
+            "a": 1
+          }
+        }
+      }
+    },
+    {
+      "id": "beams-samurai",
+      "name": "Samurai",
+      "source": "beamsRepository",
+      "isDark": true,
+      "background": {
+        "r": 0.08235294,
+        "g": 0.0745098,
+        "b": 0.07843137,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.17647059,
+        "g": 0.16470588,
+        "b": 0.15686275,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.47843137,
+        "g": 0.44705882,
+        "b": 0.39607843,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.65882353,
+        "g": 0.16078431,
+        "b": 0.17647059,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.98039216,
+        "g": 0.81960784,
+        "b": 0.71372549,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.81176471,
+        "g": 0.63529412,
+        "b": 0.28235294,
+        "a": 1
+      },
+      "material": "3d",
+      "threeDVariant": "retro",
+      "retroFinish": "soft",
+      "retroDepth": 4,
+      "keySurfaceMaterial": "grain",
+      "liquidGlass": false,
+      "grainDensity": 1,
+      "grainSize": 0.5,
+      "grainStrength": 0.025,
+      "keyFontDesign": "default",
+      "keyFontWeight": "regular",
+      "keyCapShape": "rect",
+      "groupPaint": {
+        "letters": {
+          "cornerRadius": 6
+        },
+        "numbers": {
+          "cornerRadius": 6
+        },
+        "punctuation": {
+          "cornerRadius": 6
+        },
+        "modifiers": {
+          "cornerRadius": 6
+        },
+        "return": {
+          "fill": {
+            "r": 0.81176471,
+            "g": 0.63529412,
+            "b": 0.28235294,
+            "a": 1
+          },
+          "text": {
+            "r": 0.10196078,
+            "g": 0.0745098,
+            "b": 0.04313725,
+            "a": 1
+          },
+          "activeFill": {
+            "r": 0.81176471,
+            "g": 0.63529412,
+            "b": 0.28235294,
+            "a": 1
+          },
+          "activeText": {
+            "r": 0.10196078,
+            "g": 0.0745098,
+            "b": 0.04313725,
+            "a": 1
+          }
+        },
+        "space": {
+          "fill": {
+            "r": 0.17647059,
+            "g": 0.16470588,
+            "b": 0.15686275,
+            "a": 1
+          },
+          "text": {
+            "r": 0.47843137,
+            "g": 0.44705882,
+            "b": 0.39607843,
+            "a": 1
+          },
+          "activeFill": {
+            "r": 0.17647059,
+            "g": 0.16470588,
+            "b": 0.15686275,
+            "a": 1
+          },
+          "activeText": {
+            "r": 0.47843137,
+            "g": 0.44705882,
+            "b": 0.39607843,
+            "a": 1
+          }
+        },
+        "backspace": {
+          "pressed": {
+            "r": 0.81176471,
+            "g": 0.63529412,
+            "b": 0.28235294,
+            "a": 1
+          }
+        }
+      }
+    }
+  ]
+}

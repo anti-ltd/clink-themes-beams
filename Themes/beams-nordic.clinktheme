@@ -1,0 +1,386 @@
+{
+  "id": "beams-nordic",
+  "name": "Nordic",
+  "source": "beamsRepository",
+  "isDark": false,
+  "background": {
+    "r": 0.85098039,
+    "g": 0.86666667,
+    "b": 0.91372549,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.91764706,
+    "g": 0.92941176,
+    "b": 0.95686275,
+    "a": 1
+  },
+  "keyText": {
+    "r": 0.58823529,
+    "g": 0.6,
+    "b": 0.62745098,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.77254902,
+    "g": 0.80392157,
+    "b": 0.84705882,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 0.12156863,
+    "g": 0.15294118,
+    "b": 0.19607843,
+    "a": 1
+  },
+  "accent": {
+    "r": 0.36862745,
+    "g": 0.50196078,
+    "b": 0.6627451,
+    "a": 1
+  },
+  "material": "3d",
+  "threeDVariant": "retro",
+  "retroFinish": "soft",
+  "retroDepth": 4,
+  "keySurfaceMaterial": "grain",
+  "liquidGlass": false,
+  "grainDensity": 1,
+  "grainSize": 0.5,
+  "grainStrength": 0.025,
+  "keyFontDesign": "default",
+  "keyFontWeight": "regular",
+  "keyCapShape": "rect",
+  "groupPaint": {
+    "letters": {
+      "cornerRadius": 6
+    },
+    "numbers": {
+      "cornerRadius": 6
+    },
+    "punctuation": {
+      "cornerRadius": 6
+    },
+    "modifiers": {
+      "cornerRadius": 6
+    },
+    "return": {
+      "fill": {
+        "r": 0.36862745,
+        "g": 0.50196078,
+        "b": 0.6627451,
+        "a": 1
+      },
+      "text": {
+        "r": 0.94117647,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1
+      },
+      "activeFill": {
+        "r": 0.36862745,
+        "g": 0.50196078,
+        "b": 0.6627451,
+        "a": 1
+      },
+      "activeText": {
+        "r": 0.94117647,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1
+      }
+    },
+    "space": {
+      "fill": {
+        "r": 0.91764706,
+        "g": 0.92941176,
+        "b": 0.95686275,
+        "a": 1
+      },
+      "text": {
+        "r": 0.58823529,
+        "g": 0.6,
+        "b": 0.62745098,
+        "a": 1
+      },
+      "activeFill": {
+        "r": 0.91764706,
+        "g": 0.92941176,
+        "b": 0.95686275,
+        "a": 1
+      },
+      "activeText": {
+        "r": 0.58823529,
+        "g": 0.6,
+        "b": 0.62745098,
+        "a": 1
+      }
+    },
+    "backspace": {
+      "pressed": {
+        "r": 0.36862745,
+        "g": 0.50196078,
+        "b": 0.6627451,
+        "a": 1
+      }
+    }
+  },
+  "pairedVariants": [
+    {
+      "id": "beams-nordic",
+      "name": "Nordic",
+      "source": "beamsRepository",
+      "isDark": false,
+      "background": {
+        "r": 0.85098039,
+        "g": 0.86666667,
+        "b": 0.91372549,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.91764706,
+        "g": 0.92941176,
+        "b": 0.95686275,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.58823529,
+        "g": 0.6,
+        "b": 0.62745098,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.77254902,
+        "g": 0.80392157,
+        "b": 0.84705882,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.12156863,
+        "g": 0.15294118,
+        "b": 0.19607843,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.36862745,
+        "g": 0.50196078,
+        "b": 0.6627451,
+        "a": 1
+      },
+      "material": "3d",
+      "threeDVariant": "retro",
+      "retroFinish": "soft",
+      "retroDepth": 4,
+      "keySurfaceMaterial": "grain",
+      "liquidGlass": false,
+      "grainDensity": 1,
+      "grainSize": 0.5,
+      "grainStrength": 0.025,
+      "keyFontDesign": "default",
+      "keyFontWeight": "regular",
+      "keyCapShape": "rect",
+      "groupPaint": {
+        "letters": {
+          "cornerRadius": 6
+        },
+        "numbers": {
+          "cornerRadius": 6
+        },
+        "punctuation": {
+          "cornerRadius": 6
+        },
+        "modifiers": {
+          "cornerRadius": 6
+        },
+        "return": {
+          "fill": {
+            "r": 0.36862745,
+            "g": 0.50196078,
+            "b": 0.6627451,
+            "a": 1
+          },
+          "text": {
+            "r": 0.94117647,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1
+          },
+          "activeFill": {
+            "r": 0.36862745,
+            "g": 0.50196078,
+            "b": 0.6627451,
+            "a": 1
+          },
+          "activeText": {
+            "r": 0.94117647,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1
+          }
+        },
+        "space": {
+          "fill": {
+            "r": 0.91764706,
+            "g": 0.92941176,
+            "b": 0.95686275,
+            "a": 1
+          },
+          "text": {
+            "r": 0.58823529,
+            "g": 0.6,
+            "b": 0.62745098,
+            "a": 1
+          },
+          "activeFill": {
+            "r": 0.91764706,
+            "g": 0.92941176,
+            "b": 0.95686275,
+            "a": 1
+          },
+          "activeText": {
+            "r": 0.58823529,
+            "g": 0.6,
+            "b": 0.62745098,
+            "a": 1
+          }
+        },
+        "backspace": {
+          "pressed": {
+            "r": 0.36862745,
+            "g": 0.50196078,
+            "b": 0.6627451,
+            "a": 1
+          }
+        }
+      }
+    },
+    {
+      "id": "beams-nordic",
+      "name": "Nordic",
+      "source": "beamsRepository",
+      "isDark": true,
+      "background": {
+        "r": 0.14117647,
+        "g": 0.15686275,
+        "b": 0.19215686,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.24705882,
+        "g": 0.2745098,
+        "b": 0.3372549,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.53333333,
+        "g": 0.55686275,
+        "b": 0.61960784,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.2745098,
+        "g": 0.30980392,
+        "b": 0.38431373,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.94509804,
+        "g": 0.97254902,
+        "b": 1.0,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.53333333,
+        "g": 0.72941176,
+        "b": 0.78823529,
+        "a": 1
+      },
+      "material": "3d",
+      "threeDVariant": "retro",
+      "retroFinish": "soft",
+      "retroDepth": 4,
+      "keySurfaceMaterial": "grain",
+      "liquidGlass": false,
+      "grainDensity": 1,
+      "grainSize": 0.5,
+      "grainStrength": 0.025,
+      "keyFontDesign": "default",
+      "keyFontWeight": "regular",
+      "keyCapShape": "rect",
+      "groupPaint": {
+        "letters": {
+          "cornerRadius": 6
+        },
+        "numbers": {
+          "cornerRadius": 6
+        },
+        "punctuation": {
+          "cornerRadius": 6
+        },
+        "modifiers": {
+          "cornerRadius": 6
+        },
+        "return": {
+          "fill": {
+            "r": 0.53333333,
+            "g": 0.72941176,
+            "b": 0.78823529,
+            "a": 1
+          },
+          "text": {
+            "r": 0.01960784,
+            "g": 0.14901961,
+            "b": 0.21568627,
+            "a": 1
+          },
+          "activeFill": {
+            "r": 0.53333333,
+            "g": 0.72941176,
+            "b": 0.78823529,
+            "a": 1
+          },
+          "activeText": {
+            "r": 0.01960784,
+            "g": 0.14901961,
+            "b": 0.21568627,
+            "a": 1
+          }
+        },
+        "space": {
+          "fill": {
+            "r": 0.24705882,
+            "g": 0.2745098,
+            "b": 0.3372549,
+            "a": 1
+          },
+          "text": {
+            "r": 0.53333333,
+            "g": 0.55686275,
+            "b": 0.61960784,
+            "a": 1
+          },
+          "activeFill": {
+            "r": 0.24705882,
+            "g": 0.2745098,
+            "b": 0.3372549,
+            "a": 1
+          },
+          "activeText": {
+            "r": 0.53333333,
+            "g": 0.55686275,
+            "b": 0.61960784,
+            "a": 1
+          }
+        },
+        "backspace": {
+          "pressed": {
+            "r": 0.53333333,
+            "g": 0.72941176,
+            "b": 0.78823529,
+            "a": 1
+          }
+        }
+      }
+    }
+  ]
+}

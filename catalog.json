@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "name": "Beams",
+  "themes": [
+    "Themes/beams.clinktheme",
+    "Themes/beams-blue.clinktheme",
+    "Themes/beams-green.clinktheme",
+    "Themes/beams-yellow.clinktheme",
+    "Themes/beams-red.clinktheme",
+    "Themes/beams-sand.clinktheme",
+    "Themes/beams-olive.clinktheme",
+    "Themes/beams-pink.clinktheme",
+    "Themes/beams-mono.clinktheme",
+    "Themes/beams-classic.clinktheme",
+    "Themes/beams-rose.clinktheme",
+    "Themes/beams-botanical.clinktheme",
+    "Themes/beams-laser.clinktheme",
+    "Themes/beams-nordic.clinktheme",
+    "Themes/beams-purple.clinktheme",
+    "Themes/beams-carbon.clinktheme",
+    "Themes/beams-miami.clinktheme",
+    "Themes/beams-navy.clinktheme",
+    "Themes/beams-lavender.clinktheme",
+    "Themes/beams-samurai.clinktheme",
+    "Themes/beams-terminal.clinktheme",
+    "Themes/beams-coffee.clinktheme"
+  ]
+}

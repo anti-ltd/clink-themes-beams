@@ -1,0 +1,178 @@
+{
+  "beams-light": {
+    "themeSHA256": "7c4efcc29a18e06513e11fee552a0d215cfb8d6b75c7aafa522f0b9275bf5f64",
+    "previewSHA256": "d15f4168f9cba72c049092c645aaba79ca6c1f1ce70cb16886cca89325a983f3"
+  },
+  "beams-dark": {
+    "themeSHA256": "7c4efcc29a18e06513e11fee552a0d215cfb8d6b75c7aafa522f0b9275bf5f64",
+    "previewSHA256": "221fb5413bca1a9d7ce870de0d30e9de48d09a41fec5d01d5bb4a045f2784f42"
+  },
+  "beams-blue-light": {
+    "themeSHA256": "67dde8e32ab142f2d497c3ff7389dca489525e48e4c66c2954a75159f78264c3",
+    "previewSHA256": "3d91baf60b22136cee5eafb4b673e320de67cd38a828bb790c755253b97d4c42"
+  },
+  "beams-blue-dark": {
+    "themeSHA256": "67dde8e32ab142f2d497c3ff7389dca489525e48e4c66c2954a75159f78264c3",
+    "previewSHA256": "430b349c866651e10431afcfc0a9bda18f8923bc9eadccbaaf545b4461733482"
+  },
+  "beams-green-light": {
+    "themeSHA256": "b031c8e0a8e3986918e79e2e24abf92f396e20807b9d7af826e518f85fb4f6fd",
+    "previewSHA256": "6ce77b40aa67bdcf8fa2ce1170963a8f5d4e2de19920625257a031e769d8f6ce"
+  },
+  "beams-green-dark": {
+    "themeSHA256": "b031c8e0a8e3986918e79e2e24abf92f396e20807b9d7af826e518f85fb4f6fd",
+    "previewSHA256": "a470d2fdf4428bbc2db839448e4760d0cd1e3828ab43bba0a72fb00185fddf8f"
+  },
+  "beams-yellow-light": {
+    "themeSHA256": "1360d3a8a53423e598eb28f835dee19050ec41b2f971abef9314508fef68f183",
+    "previewSHA256": "6f728b567e4464272f3d0809db36b7dbd5485586e4e73faa2c9cb0e1acbdcdd1"
+  },
+  "beams-yellow-dark": {
+    "themeSHA256": "1360d3a8a53423e598eb28f835dee19050ec41b2f971abef9314508fef68f183",
+    "previewSHA256": "5d058ee3c0d9ab1afb9dbd0c257d21c4c869b45a998f16a22a0d62d240db81af"
+  },
+  "beams-red-light": {
+    "themeSHA256": "2e9b47113a161b5681b28104cc38b382671bb771ece9045e69242ec65955ccc4",
+    "previewSHA256": "7bbbc5ec3f58f55272ff2df27c8f9abd186ff2947d786a33e96977bc36248581"
+  },
+  "beams-red-dark": {
+    "themeSHA256": "2e9b47113a161b5681b28104cc38b382671bb771ece9045e69242ec65955ccc4",
+    "previewSHA256": "cc06df814652d97d7523b002df68255af9ba1b45c199838fab083b0c0b157a8c"
+  },
+  "beams-sand-light": {
+    "themeSHA256": "d21df1aa495151edbd2c9170adc146e33a9d1e21ad3e4e60386ab87c677f0222",
+    "previewSHA256": "700804e92692dad41bc4775f50dd5c0c61e9f4fc08ebe5e03b870d2d9f4535ec"
+  },
+  "beams-sand-dark": {
+    "themeSHA256": "d21df1aa495151edbd2c9170adc146e33a9d1e21ad3e4e60386ab87c677f0222",
+    "previewSHA256": "841cfface6d3fd359af0730f477f3fa7357ebb261e95a7d9c1119e849b37c3f7"
+  },
+  "beams-olive-light": {
+    "themeSHA256": "8a242c82dadd4c667885378cd7b4c69799387cd31322b4896f2f8999c00b9e17",
+    "previewSHA256": "319bc1b50631e1b73aac10cf0f1b73fdafce61c784f228729972578b39ecb10b"
+  },
+  "beams-olive-dark": {
+    "themeSHA256": "8a242c82dadd4c667885378cd7b4c69799387cd31322b4896f2f8999c00b9e17",
+    "previewSHA256": "6ab93e724995259c9f100bd6441c6bb8ff31c49a689af0ac623f6e59e6b4ded2"
+  },
+  "beams-pink-light": {
+    "themeSHA256": "fac3741ac87cc462c7428b9781b9fcf7de33d2c4525ee94ae4f3490b5d19ffb5",
+    "previewSHA256": "63bb206dfe1dfb5188023e4ac4536a6ffe1aa89ef8de573b5c861188c0ffd5ea"
+  },
+  "beams-pink-dark": {
+    "themeSHA256": "fac3741ac87cc462c7428b9781b9fcf7de33d2c4525ee94ae4f3490b5d19ffb5",
+    "previewSHA256": "17adb33d203dd6dd55db1517a3158285d2cb9aad8345c239304bb30da9aaf9d9"
+  },
+  "beams-mono-light": {
+    "themeSHA256": "790a43420ad57e9da16f87e628aaaa0257e92349e33a0fa603945e36b91161c9",
+    "previewSHA256": "3979b7514962c7c790508666b6f35a732575118da62592823e4c5a218742e795"
+  },
+  "beams-mono-dark": {
+    "themeSHA256": "790a43420ad57e9da16f87e628aaaa0257e92349e33a0fa603945e36b91161c9",
+    "previewSHA256": "707a73a8c378a2ca90aa746c1d4a0592a9670b43cb35aae37e83902a93b71674"
+  },
+  "beams-classic-light": {
+    "themeSHA256": "51f336a6000db8a9d17e72ceb05acf5dc75184e28ca050d8d465a5a95ecf01ca",
+    "previewSHA256": "4ac66851b7569bb65af7791d986d76f91f2c7eda18f9e5d95eb1512baa09fccf"
+  },
+  "beams-classic-dark": {
+    "themeSHA256": "51f336a6000db8a9d17e72ceb05acf5dc75184e28ca050d8d465a5a95ecf01ca",
+    "previewSHA256": "6025532c5965706b6d2df199e212aeec03b7c22fee713967eb8e7039e0dbc4b9"
+  },
+  "beams-rose-light": {
+    "themeSHA256": "c0f556e0e76db951455de3e39d0e0d221909643f35e08730d595977eb0249c37",
+    "previewSHA256": "37ea31f18c65c161f95300101d3e9030dd6bbf81f1e8afc36614be44b09137c8"
+  },
+  "beams-rose-dark": {
+    "themeSHA256": "c0f556e0e76db951455de3e39d0e0d221909643f35e08730d595977eb0249c37",
+    "previewSHA256": "76450d87c60e5687cdad5bf3517ff2d5bb651844c1e7c74bccaad53a93b43efb"
+  },
+  "beams-botanical-light": {
+    "themeSHA256": "06fb6787bb41439543ce392457075bb9086e3eb2a1d43a1ebf1ca558ffb3bd3a",
+    "previewSHA256": "5d5afcb5d84abf40e66a594de6511ef6b833d6e0b8727926c8440c9b2dfed822"
+  },
+  "beams-botanical-dark": {
+    "themeSHA256": "06fb6787bb41439543ce392457075bb9086e3eb2a1d43a1ebf1ca558ffb3bd3a",
+    "previewSHA256": "635140cc341d1f6e8c93ebcb538699e856e2c07a90d32f4f2363b8de06916491"
+  },
+  "beams-laser-light": {
+    "themeSHA256": "fb7de0939215c90db79641f61340f1082a40a358a2f22cb86cd00ffbc7c75e18",
+    "previewSHA256": "0ffc699184fe854fbdc6738c7fa57f8f3154a838767838845862f8cb766b07fc"
+  },
+  "beams-laser-dark": {
+    "themeSHA256": "fb7de0939215c90db79641f61340f1082a40a358a2f22cb86cd00ffbc7c75e18",
+    "previewSHA256": "cbac46afb9c24fce82865dedb448e3f079c721a1852a1f59ed5d1670a561b3ea"
+  },
+  "beams-nordic-light": {
+    "themeSHA256": "dc6e63666f459dfeec5514d62bde6401038d3830080c0d1a018629ac62855644",
+    "previewSHA256": "e56531bc1ee8ef33990aebbef2b0f708d0377c0cc274aba965e3b5910542d3fe"
+  },
+  "beams-nordic-dark": {
+    "themeSHA256": "dc6e63666f459dfeec5514d62bde6401038d3830080c0d1a018629ac62855644",
+    "previewSHA256": "fed37eca25c787d89d86e51cf60ed2a7759becc3f644c595de2c2f14b26e1fdc"
+  },
+  "beams-purple-light": {
+    "themeSHA256": "371ac3c75735aa27354432ecdeb208b9b24fb50f7d4fea6397b7317b11e1e23e",
+    "previewSHA256": "556c5be7fe66c70102fb1f3f94710ed5e3afa70cdf4a097e92eb777d4e18cd8a"
+  },
+  "beams-purple-dark": {
+    "themeSHA256": "371ac3c75735aa27354432ecdeb208b9b24fb50f7d4fea6397b7317b11e1e23e",
+    "previewSHA256": "ed5ed04651af2c1492865c9370e34555de74071ad6655b648ff3d7103d2961fc"
+  },
+  "beams-carbon-light": {
+    "themeSHA256": "6a57987701e62c986a5e0de8c8cee63b013e49964ed4d72dfed2a011de01c50c",
+    "previewSHA256": "0870f58a3ffdb3995886e77f31dde5f278155c3365dcfde4b3546a4d462de062"
+  },
+  "beams-carbon-dark": {
+    "themeSHA256": "6a57987701e62c986a5e0de8c8cee63b013e49964ed4d72dfed2a011de01c50c",
+    "previewSHA256": "656b57c3e48706d63bfc42d52fa817b3b282eb750196a759080dbe90bae907f6"
+  },
+  "beams-miami-light": {
+    "themeSHA256": "e101677625d0fcba5524dfa39453f2c62870df8c517007d1ada7d0223ccd29e9",
+    "previewSHA256": "9bbe9c4d746097d9c8fef0b92efbc60b264aefe7fcc5dbc555581db4f7332631"
+  },
+  "beams-miami-dark": {
+    "themeSHA256": "e101677625d0fcba5524dfa39453f2c62870df8c517007d1ada7d0223ccd29e9",
+    "previewSHA256": "c2d1cb0cda2b339eef79c0208b52d3b596397309b74dc671f5e0198a84905c74"
+  },
+  "beams-navy-light": {
+    "themeSHA256": "b3659d4682b03a7ed36b6e5c0853539112e8625036b7b313cc92179b0053be8e",
+    "previewSHA256": "c1fc25a33dfd87b8b6f2286dccb5cfda4b674b5a2f1d2aa4ca6ea258b2ab2f99"
+  },
+  "beams-navy-dark": {
+    "themeSHA256": "b3659d4682b03a7ed36b6e5c0853539112e8625036b7b313cc92179b0053be8e",
+    "previewSHA256": "db4d0c5b5412532aea3a8798e4d6fb23ca84026699351aa527c825f32b1cc23a"
+  },
+  "beams-lavender-light": {
+    "themeSHA256": "dec2545f5088ea3cdca367cc285a2976a3eff67cf9d43e61ccf3cfc590553435",
+    "previewSHA256": "3b469fb5aa02d56f99700fbe6b86b4232257b5cbc7899d0f91c1bd309f12c703"
+  },
+  "beams-lavender-dark": {
+    "themeSHA256": "dec2545f5088ea3cdca367cc285a2976a3eff67cf9d43e61ccf3cfc590553435",
+    "previewSHA256": "97be28385424dd27db0336bc631fe70ff518f39ee72bac490d9add85b1f6de32"
+  },
+  "beams-samurai-light": {
+    "themeSHA256": "c13da2cc3e6b3ebc7edf755383a17c6e2dbb787066edcde1b25309e1cade47e1",
+    "previewSHA256": "195b6533e38b4a673ea363d92afa888042463370a1277d992be5b5ec41cbc620"
+  },
+  "beams-samurai-dark": {
+    "themeSHA256": "c13da2cc3e6b3ebc7edf755383a17c6e2dbb787066edcde1b25309e1cade47e1",
+    "previewSHA256": "0873e42c106f65032483f5509a8322730f1998b010f25b1f9850dbc132059c9e"
+  },
+  "beams-terminal-light": {
+    "themeSHA256": "47f95477709e406140aed4961c1b231f5bc0727bc063e8e4e037005b989e3159",
+    "previewSHA256": "22bf27654f551da6d066885c4280d021f68473853c191ec3d253274e52205e4f"
+  },
+  "beams-terminal-dark": {
+    "themeSHA256": "47f95477709e406140aed4961c1b231f5bc0727bc063e8e4e037005b989e3159",
+    "previewSHA256": "7fca1a02f972c42104fd6b8e66c609856da371bde894a8e91fd6949ee9640014"
+  },
+  "beams-coffee-light": {
+    "themeSHA256": "8d4a23831e3f6875c84158254542e787c3a86b99b82cba8cbdd9ecac422de6e2",
+    "previewSHA256": "023e4bd4426e44e0ca490be8a521c0b29abdb9abe5e73bb29cbd2d20ef166cc3"
+  },
+  "beams-coffee-dark": {
+    "themeSHA256": "8d4a23831e3f6875c84158254542e787c3a86b99b82cba8cbdd9ecac422de6e2",
+    "previewSHA256": "a86860379daa25bf9ad663ffcf5f11ad58f41a40e900bd4c390edc59878ca024"
+  }
+}

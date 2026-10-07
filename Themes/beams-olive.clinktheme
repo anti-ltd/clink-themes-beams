@@ -1,0 +1,386 @@
+{
+  "id": "beams-olive",
+  "name": "Olive",
+  "source": "beamsRepository",
+  "isDark": false,
+  "background": {
+    "r": 0.84705882,
+    "g": 0.83921569,
+    "b": 0.78823529,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.92156863,
+    "g": 0.92941176,
+    "b": 0.88627451,
+    "a": 1
+  },
+  "keyText": {
+    "r": 0.57254902,
+    "g": 0.58039216,
+    "b": 0.53333333,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.74901961,
+    "g": 0.74901961,
+    "b": 0.66666667,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 0.07058824,
+    "g": 0.08235294,
+    "b": 0.0,
+    "a": 1
+  },
+  "accent": {
+    "r": 0.41568627,
+    "g": 0.4745098,
+    "b": 0.23137255,
+    "a": 1
+  },
+  "material": "3d",
+  "threeDVariant": "retro",
+  "retroFinish": "soft",
+  "retroDepth": 4,
+  "keySurfaceMaterial": "grain",
+  "liquidGlass": false,
+  "grainDensity": 1,
+  "grainSize": 0.5,
+  "grainStrength": 0.025,
+  "keyFontDesign": "default",
+  "keyFontWeight": "regular",
+  "keyCapShape": "rect",
+  "groupPaint": {
+    "letters": {
+      "cornerRadius": 6
+    },
+    "numbers": {
+      "cornerRadius": 6
+    },
+    "punctuation": {
+      "cornerRadius": 6
+    },
+    "modifiers": {
+      "cornerRadius": 6
+    },
+    "return": {
+      "fill": {
+        "r": 0.41568627,
+        "g": 0.4745098,
+        "b": 0.23137255,
+        "a": 1
+      },
+      "text": {
+        "r": 0.98823529,
+        "g": 1.0,
+        "b": 0.90196078,
+        "a": 1
+      },
+      "activeFill": {
+        "r": 0.41568627,
+        "g": 0.4745098,
+        "b": 0.23137255,
+        "a": 1
+      },
+      "activeText": {
+        "r": 0.98823529,
+        "g": 1.0,
+        "b": 0.90196078,
+        "a": 1
+      }
+    },
+    "space": {
+      "fill": {
+        "r": 0.92156863,
+        "g": 0.92941176,
+        "b": 0.88627451,
+        "a": 1
+      },
+      "text": {
+        "r": 0.57254902,
+        "g": 0.58039216,
+        "b": 0.53333333,
+        "a": 1
+      },
+      "activeFill": {
+        "r": 0.92156863,
+        "g": 0.92941176,
+        "b": 0.88627451,
+        "a": 1
+      },
+      "activeText": {
+        "r": 0.57254902,
+        "g": 0.58039216,
+        "b": 0.53333333,
+        "a": 1
+      }
+    },
+    "backspace": {
+      "pressed": {
+        "r": 0.41568627,
+        "g": 0.4745098,
+        "b": 0.23137255,
+        "a": 1
+      }
+    }
+  },
+  "pairedVariants": [
+    {
+      "id": "beams-olive",
+      "name": "Olive",
+      "source": "beamsRepository",
+      "isDark": false,
+      "background": {
+        "r": 0.84705882,
+        "g": 0.83921569,
+        "b": 0.78823529,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.92156863,
+        "g": 0.92941176,
+        "b": 0.88627451,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.57254902,
+        "g": 0.58039216,
+        "b": 0.53333333,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.74901961,
+        "g": 0.74901961,
+        "b": 0.66666667,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.07058824,
+        "g": 0.08235294,
+        "b": 0.0,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.41568627,
+        "g": 0.4745098,
+        "b": 0.23137255,
+        "a": 1
+      },
+      "material": "3d",
+      "threeDVariant": "retro",
+      "retroFinish": "soft",
+      "retroDepth": 4,
+      "keySurfaceMaterial": "grain",
+      "liquidGlass": false,
+      "grainDensity": 1,
+      "grainSize": 0.5,
+      "grainStrength": 0.025,
+      "keyFontDesign": "default",
+      "keyFontWeight": "regular",
+      "keyCapShape": "rect",
+      "groupPaint": {
+        "letters": {
+          "cornerRadius": 6
+        },
+        "numbers": {
+          "cornerRadius": 6
+        },
+        "punctuation": {
+          "cornerRadius": 6
+        },
+        "modifiers": {
+          "cornerRadius": 6
+        },
+        "return": {
+          "fill": {
+            "r": 0.41568627,
+            "g": 0.4745098,
+            "b": 0.23137255,
+            "a": 1
+          },
+          "text": {
+            "r": 0.98823529,
+            "g": 1.0,
+            "b": 0.90196078,
+            "a": 1
+          },
+          "activeFill": {
+            "r": 0.41568627,
+            "g": 0.4745098,
+            "b": 0.23137255,
+            "a": 1
+          },
+          "activeText": {
+            "r": 0.98823529,
+            "g": 1.0,
+            "b": 0.90196078,
+            "a": 1
+          }
+        },
+        "space": {
+          "fill": {
+            "r": 0.92156863,
+            "g": 0.92941176,
+            "b": 0.88627451,
+            "a": 1
+          },
+          "text": {
+            "r": 0.57254902,
+            "g": 0.58039216,
+            "b": 0.53333333,
+            "a": 1
+          },
+          "activeFill": {
+            "r": 0.92156863,
+            "g": 0.92941176,
+            "b": 0.88627451,
+            "a": 1
+          },
+          "activeText": {
+            "r": 0.57254902,
+            "g": 0.58039216,
+            "b": 0.53333333,
+            "a": 1
+          }
+        },
+        "backspace": {
+          "pressed": {
+            "r": 0.41568627,
+            "g": 0.4745098,
+            "b": 0.23137255,
+            "a": 1
+          }
+        }
+      }
+    },
+    {
+      "id": "beams-olive",
+      "name": "Olive",
+      "source": "beamsRepository",
+      "isDark": true,
+      "background": {
+        "r": 0.1254902,
+        "g": 0.12941176,
+        "b": 0.10588235,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.24705882,
+        "g": 0.25490196,
+        "b": 0.21176471,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.54117647,
+        "g": 0.54901961,
+        "b": 0.50980392,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.18823529,
+        "g": 0.19607843,
+        "b": 0.16078431,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.96078431,
+        "g": 0.96862745,
+        "b": 0.92941176,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.59607843,
+        "g": 0.67058824,
+        "b": 0.3254902,
+        "a": 1
+      },
+      "material": "3d",
+      "threeDVariant": "retro",
+      "retroFinish": "soft",
+      "retroDepth": 4,
+      "keySurfaceMaterial": "grain",
+      "liquidGlass": false,
+      "grainDensity": 1,
+      "grainSize": 0.5,
+      "grainStrength": 0.025,
+      "keyFontDesign": "default",
+      "keyFontWeight": "regular",
+      "keyCapShape": "rect",
+      "groupPaint": {
+        "letters": {
+          "cornerRadius": 6
+        },
+        "numbers": {
+          "cornerRadius": 6
+        },
+        "punctuation": {
+          "cornerRadius": 6
+        },
+        "modifiers": {
+          "cornerRadius": 6
+        },
+        "return": {
+          "fill": {
+            "r": 0.59607843,
+            "g": 0.67058824,
+            "b": 0.3254902,
+            "a": 1
+          },
+          "text": {
+            "r": 0.01176471,
+            "g": 0.05882353,
+            "b": 0.0,
+            "a": 1
+          },
+          "activeFill": {
+            "r": 0.59607843,
+            "g": 0.67058824,
+            "b": 0.3254902,
+            "a": 1
+          },
+          "activeText": {
+            "r": 0.01176471,
+            "g": 0.05882353,
+            "b": 0.0,
+            "a": 1
+          }
+        },
+        "space": {
+          "fill": {
+            "r": 0.24705882,
+            "g": 0.25490196,
+            "b": 0.21176471,
+            "a": 1
+          },
+          "text": {
+            "r": 0.54117647,
+            "g": 0.54901961,
+            "b": 0.50980392,
+            "a": 1
+          },
+          "activeFill": {
+            "r": 0.24705882,
+            "g": 0.25490196,
+            "b": 0.21176471,
+            "a": 1
+          },
+          "activeText": {
+            "r": 0.54117647,
+            "g": 0.54901961,
+            "b": 0.50980392,
+            "a": 1
+          }
+        },
+        "backspace": {
+          "pressed": {
+            "r": 0.59607843,
+            "g": 0.67058824,
+            "b": 0.3254902,
+            "a": 1
+          }
+        }
+      }
+    }
+  ]
+}

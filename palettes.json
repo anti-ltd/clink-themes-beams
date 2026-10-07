@@ -1,0 +1,489 @@
+{
+  "version": 1,
+  "themes": [
+    {
+      "id": "beams",
+      "name": "Beams",
+      "light": {
+        "background": "#DBD8D3",
+        "keyFill": "#F2EFEA",
+        "keyText": "#97948F",
+        "specialKeyFill": "#CAC3BB",
+        "specialKeyText": "#14110C",
+        "returnFill": "#EA7B32",
+        "returnText": "#2C0900"
+      },
+      "dark": {
+        "background": "#1B1C17",
+        "keyFill": "#3F403B",
+        "keyText": "#8A8C86",
+        "specialKeyFill": "#2E2F2A",
+        "specialKeyText": "#F5F6F1",
+        "returnFill": "#E87832",
+        "returnText": "#330900"
+      }
+    },
+    {
+      "id": "beams-blue",
+      "name": "Blue",
+      "light": {
+        "background": "#D6D9E0",
+        "keyFill": "#F0F4F7",
+        "keyText": "#92969A",
+        "specialKeyFill": "#C2C6CF",
+        "specialKeyText": "#10141D",
+        "returnFill": "#5B7ED5",
+        "returnText": "#F0FEFF"
+      },
+      "dark": {
+        "background": "#181C1F",
+        "keyFill": "#363940",
+        "keyText": "#84878E",
+        "specialKeyFill": "#2C3036",
+        "specialKeyText": "#FCFFFF",
+        "returnFill": "#6C8BE6",
+        "returnText": "#F0FFFF"
+      }
+    },
+    {
+      "id": "beams-green",
+      "name": "Green",
+      "light": {
+        "background": "#DBD8D3",
+        "keyFill": "#F2EFEA",
+        "keyText": "#97948F",
+        "specialKeyFill": "#CAC4BD",
+        "specialKeyText": "#15120D",
+        "returnFill": "#4F8E60",
+        "returnText": "#EEFFF3"
+      },
+      "dark": {
+        "background": "#1B1C17",
+        "keyFill": "#3F403B",
+        "keyText": "#8B8C87",
+        "specialKeyFill": "#2E2F2A",
+        "specialKeyText": "#F5F6F1",
+        "returnFill": "#5CA670",
+        "returnText": "#001500"
+      }
+    },
+    {
+      "id": "beams-yellow",
+      "name": "Yellow",
+      "light": {
+        "background": "#DBD8D3",
+        "keyFill": "#F2EFEA",
+        "keyText": "#989490",
+        "specialKeyFill": "#CAC4BD",
+        "specialKeyText": "#15120D",
+        "returnFill": "#E7AE1D",
+        "returnText": "#200700"
+      },
+      "dark": {
+        "background": "#1B1C17",
+        "keyFill": "#3F403B",
+        "keyText": "#8A8C86",
+        "specialKeyFill": "#2E2F2A",
+        "specialKeyText": "#F6F7F2",
+        "returnFill": "#EAB22A",
+        "returnText": "#210800"
+      }
+    },
+    {
+      "id": "beams-red",
+      "name": "Red",
+      "light": {
+        "background": "#DBD8D3",
+        "keyFill": "#F2EFEA",
+        "keyText": "#989490",
+        "specialKeyFill": "#CAC4BD",
+        "specialKeyText": "#15120D",
+        "returnFill": "#CC4738",
+        "returnText": "#FFEFE9"
+      },
+      "dark": {
+        "background": "#1B1C17",
+        "keyFill": "#3F403B",
+        "keyText": "#8B8C87",
+        "specialKeyFill": "#2E2F2A",
+        "specialKeyText": "#F6F7F2",
+        "returnFill": "#DB5A48",
+        "returnText": "#FFF0E8"
+      }
+    },
+    {
+      "id": "beams-sand",
+      "name": "Sand",
+      "light": {
+        "background": "#E3D7C7",
+        "keyFill": "#F2EBDB",
+        "keyText": "#9E9686",
+        "specialKeyFill": "#D2C1A7",
+        "specialKeyText": "#2D1E07",
+        "returnFill": "#A4572A",
+        "returnText": "#FFF6E3"
+      },
+      "dark": {
+        "background": "#2B241C",
+        "keyFill": "#494136",
+        "keyText": "#928A80",
+        "specialKeyFill": "#3A3328",
+        "specialKeyText": "#FEF5EB",
+        "returnFill": "#C5723C",
+        "returnText": "#270400"
+      }
+    },
+    {
+      "id": "beams-olive",
+      "name": "Olive",
+      "light": {
+        "background": "#D8D6C9",
+        "keyFill": "#EBEDE2",
+        "keyText": "#929488",
+        "specialKeyFill": "#BFBFAA",
+        "specialKeyText": "#121500",
+        "returnFill": "#6A793B",
+        "returnText": "#FCFFE6"
+      },
+      "dark": {
+        "background": "#20211B",
+        "keyFill": "#3F4136",
+        "keyText": "#8A8C82",
+        "specialKeyFill": "#303229",
+        "specialKeyText": "#F5F7ED",
+        "returnFill": "#98AB53",
+        "returnText": "#030F00"
+      }
+    },
+    {
+      "id": "beams-pink",
+      "name": "Pink",
+      "light": {
+        "background": "#E8DADA",
+        "keyFill": "#F6EEEC",
+        "keyText": "#9E9498",
+        "specialKeyFill": "#DAC3CB",
+        "specialKeyText": "#271018",
+        "returnFill": "#D6728E",
+        "returnText": "#FFF0FB"
+      },
+      "dark": {
+        "background": "#251C1F",
+        "keyFill": "#41363A",
+        "keyText": "#90868A",
+        "specialKeyFill": "#332A2D",
+        "specialKeyText": "#FEF4F8",
+        "returnFill": "#DE869F",
+        "returnText": "#2D0007"
+      }
+    },
+    {
+      "id": "beams-mono",
+      "name": "Mono",
+      "light": {
+        "background": "#DEDEDE",
+        "keyFill": "#F3F3F3",
+        "keyText": "#969696",
+        "specialKeyFill": "#CCCCCC",
+        "specialKeyText": "#080808",
+        "returnFill": "#3A3A3A",
+        "returnText": "#FEFEFE"
+      },
+      "dark": {
+        "background": "#161616",
+        "keyFill": "#3A3A3A",
+        "keyText": "#888888",
+        "specialKeyFill": "#2A2A2A",
+        "specialKeyText": "#FBFBFB",
+        "returnFill": "#D0D0D0",
+        "returnText": "#000000"
+      }
+    },
+    {
+      "id": "beams-classic",
+      "name": "Classic",
+      "light": {
+        "background": "#D1CAC2",
+        "keyFill": "#ECE5D5",
+        "keyText": "#969080",
+        "specialKeyFill": "#716D6A",
+        "specialKeyText": "#F7F4EE",
+        "returnFill": "#C7463B",
+        "returnText": "#FFEFEA"
+      },
+      "dark": {
+        "background": "#1E1A17",
+        "keyFill": "#3F3C37",
+        "keyText": "#8A8782",
+        "specialKeyFill": "#5E5C55",
+        "specialKeyText": "#F7F4ED",
+        "returnFill": "#C4473B",
+        "returnText": "#FFF0EA"
+      }
+    },
+    {
+      "id": "beams-rose",
+      "name": "Rosé",
+      "light": {
+        "background": "#EADCDC",
+        "keyFill": "#F5EDEB",
+        "keyText": "#9C9492",
+        "specialKeyFill": "#E6BCBF",
+        "specialKeyText": "#2D0F13",
+        "returnFill": "#2C2B30",
+        "returnText": "#E7D2DA"
+      },
+      "dark": {
+        "background": "#1F1E23",
+        "keyFill": "#323136",
+        "keyText": "#7F767D",
+        "specialKeyFill": "#413539",
+        "specialKeyText": "#EEDDE3",
+        "returnFill": "#E2A0AD",
+        "returnText": "#240508"
+      }
+    },
+    {
+      "id": "beams-botanical",
+      "name": "Botanical",
+      "light": {
+        "background": "#D8DED2",
+        "keyFill": "#F0EDE4",
+        "keyText": "#9A9C90",
+        "specialKeyFill": "#B2C2A7",
+        "specialKeyText": "#1D2B16",
+        "returnFill": "#5F785B",
+        "returnText": "#EBFCE5"
+      },
+      "dark": {
+        "background": "#1B221B",
+        "keyFill": "#323D35",
+        "keyText": "#7F8A82",
+        "specialKeyFill": "#41554A",
+        "specialKeyText": "#EBF9EF",
+        "returnFill": "#B6C39F",
+        "returnText": "#0A1300"
+      }
+    },
+    {
+      "id": "beams-laser",
+      "name": "Laser",
+      "light": {
+        "background": "#E4D7F1",
+        "keyFill": "#F3EDF9",
+        "keyText": "#9791A0",
+        "specialKeyFill": "#D2C2ED",
+        "specialKeyText": "#150430",
+        "returnFill": "#AE27F8",
+        "returnText": "#FFE4FF"
+      },
+      "dark": {
+        "background": "#160E23",
+        "keyFill": "#291B3F",
+        "keyText": "#506682",
+        "specialKeyFill": "#352256",
+        "specialKeyText": "#E39BDD",
+        "returnFill": "#F13EA0",
+        "returnText": "#310026"
+      }
+    },
+    {
+      "id": "beams-nordic",
+      "name": "Nordic",
+      "light": {
+        "background": "#D9DDE9",
+        "keyFill": "#EAEDF4",
+        "keyText": "#9699A0",
+        "specialKeyFill": "#C5CDD8",
+        "specialKeyText": "#1F2732",
+        "returnFill": "#5E80A9",
+        "returnText": "#F0FFFF"
+      },
+      "dark": {
+        "background": "#242831",
+        "keyFill": "#3F4656",
+        "keyText": "#888E9E",
+        "specialKeyFill": "#464F62",
+        "specialKeyText": "#F1F8FF",
+        "returnFill": "#88BAC9",
+        "returnText": "#052637"
+      }
+    },
+    {
+      "id": "beams-purple",
+      "name": "Purple",
+      "light": {
+        "background": "#E0D8ED",
+        "keyFill": "#F3EDF9",
+        "keyText": "#9794A0",
+        "specialKeyFill": "#CABDE4",
+        "specialKeyText": "#1C0F35",
+        "returnFill": "#7A4DD7",
+        "returnText": "#FFF1FF"
+      },
+      "dark": {
+        "background": "#1D2029",
+        "keyFill": "#383B4C",
+        "keyText": "#8A8E9A",
+        "specialKeyFill": "#464A5D",
+        "specialKeyText": "#8AE9B1",
+        "returnFill": "#B78FEE",
+        "returnText": "#1F083C"
+      }
+    },
+    {
+      "id": "beams-carbon",
+      "name": "Carbon",
+      "light": {
+        "background": "#BFB7B4",
+        "keyFill": "#E8E1D9",
+        "keyText": "#928F87",
+        "specialKeyFill": "#4D4B4C",
+        "specialKeyText": "#D4A07D",
+        "returnFill": "#DC6320",
+        "returnText": "#2D0700"
+      },
+      "dark": {
+        "background": "#1A1A1A",
+        "keyFill": "#4C4C4C",
+        "keyText": "#959595",
+        "specialKeyFill": "#E5681E",
+        "specialKeyText": "#360200",
+        "returnFill": "#DC631E",
+        "returnText": "#360600"
+      }
+    },
+    {
+      "id": "beams-miami",
+      "name": "Miami",
+      "light": {
+        "background": "#D5EDEF",
+        "keyFill": "#F3F8FB",
+        "keyText": "#98A2A2",
+        "specialKeyFill": "#80D6DC",
+        "specialKeyText": "#003442",
+        "returnFill": "#EE6CA4",
+        "returnText": "#FFEDFF"
+      },
+      "dark": {
+        "background": "#15222B",
+        "keyFill": "#243545",
+        "keyText": "#547480",
+        "specialKeyFill": "#2E4859",
+        "specialKeyText": "#DDBDDC",
+        "returnFill": "#EF6EB1",
+        "returnText": "#2B0024"
+      }
+    },
+    {
+      "id": "beams-navy",
+      "name": "Navy",
+      "light": {
+        "background": "#D4D8E1",
+        "keyFill": "#F0EDE4",
+        "keyText": "#969290",
+        "specialKeyFill": "#2A355C",
+        "specialKeyText": "#F1FEFF",
+        "returnFill": "#C5922F",
+        "returnText": "#1E0400"
+      },
+      "dark": {
+        "background": "#0F1626",
+        "keyFill": "#1D2B46",
+        "keyText": "#6E7A8A",
+        "specialKeyFill": "#29385E",
+        "specialKeyText": "#E8F3F6",
+        "returnFill": "#D59F44",
+        "returnText": "#1B0500"
+      }
+    },
+    {
+      "id": "beams-lavender",
+      "name": "Lavender",
+      "light": {
+        "background": "#E5DEEE",
+        "keyFill": "#F6F0FA",
+        "keyText": "#9E98A2",
+        "specialKeyFill": "#D1C4E8",
+        "specialKeyText": "#27193D",
+        "returnFill": "#8D71C7",
+        "returnText": "#FFF5FF"
+      },
+      "dark": {
+        "background": "#221C28",
+        "keyFill": "#3D354A",
+        "keyText": "#8A8298",
+        "specialKeyFill": "#4E4560",
+        "specialKeyText": "#FCF3FF",
+        "returnFill": "#B39FDA",
+        "returnText": "#170B33"
+      }
+    },
+    {
+      "id": "beams-samurai",
+      "name": "Samurai",
+      "light": {
+        "background": "#E0D9C7",
+        "keyFill": "#F1EADA",
+        "keyText": "#979080",
+        "specialKeyFill": "#B12F32",
+        "specialKeyText": "#FFE6D7",
+        "returnFill": "#201C19",
+        "returnText": "#C9AD7F"
+      },
+      "dark": {
+        "background": "#151314",
+        "keyFill": "#2D2A28",
+        "keyText": "#7A7265",
+        "specialKeyFill": "#A8292D",
+        "specialKeyText": "#FAD1B6",
+        "returnFill": "#CFA248",
+        "returnText": "#1A130B"
+      }
+    },
+    {
+      "id": "beams-terminal",
+      "name": "Terminal",
+      "light": {
+        "background": "#CFD6CF",
+        "keyFill": "#ECF1EB",
+        "keyText": "#919891",
+        "specialKeyFill": "#B8C4BA",
+        "specialKeyText": "#07190D",
+        "returnFill": "#1F9E46",
+        "returnText": "#DFFFEA"
+      },
+      "dark": {
+        "background": "#0B0D0A",
+        "keyFill": "#1D221C",
+        "keyText": "#307640",
+        "specialKeyFill": "#252C25",
+        "specialKeyText": "#35AB55",
+        "returnFill": "#34EF65",
+        "returnText": "#001404"
+      }
+    },
+    {
+      "id": "beams-coffee",
+      "name": "Coffee",
+      "light": {
+        "background": "#E3D3C4",
+        "keyFill": "#F2EADF",
+        "keyText": "#9F978C",
+        "specialKeyFill": "#B78E6C",
+        "specialKeyText": "#3B1E03",
+        "returnFill": "#6A4733",
+        "returnText": "#FFEDDA"
+      },
+      "dark": {
+        "background": "#1F1714",
+        "keyFill": "#3D2E27",
+        "keyText": "#877970",
+        "specialKeyFill": "#4E3B31",
+        "specialKeyText": "#F2E2D2",
+        "returnFill": "#D59E65",
+        "returnText": "#22160E"
+      }
+    }
+  ]
+}
