@@ -38,7 +38,7 @@ class ManifestTests(unittest.TestCase):
                          [Path(path).stem for path in catalog['themes']])
         self.assertEqual(manifest['themes'][0]['id'], 'beams')
         for entry in manifest['themes']:
-            self.assertEqual(set(entry), {'id', 'name', 'version', 'preview', 'asset'})
+            self.assertEqual(set(entry), {'id', 'name', 'version', 'preview', 'asset', 'platform'})
             raw = (self.root / 'Themes' / entry['asset']['path']).read_bytes()
             theme = json.loads(raw)
             self.assertEqual(theme, entry['preview'])

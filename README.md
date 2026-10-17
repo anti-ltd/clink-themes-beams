@@ -118,3 +118,7 @@ The importer keeps the native PNGs unchanged and records their hashes alongside 
 ## Licensing
 
 These themes and tools use the [Clink Community Assets License 1.0](LICENSE.md). You can use, modify, and share them for free with Clink under that licence. Include the licence when sharing a modified copy.
+
+## Platform availability
+
+`platforms.json` sets the default platform for packs in this repository and optional overrides keyed by pack ID (language code or locale for language packs). Use `ios`, `android`, or `both`. The manifest builder writes `platform` on every entry; older entries without it mean `both`. Platform targeting affects repository discovery and downloads, not the portable format of a person’s own exported content.

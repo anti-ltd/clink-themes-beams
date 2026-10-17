@@ -396,7 +396,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-beams/releases/download/themes-503b4916050148930d40bd88bcfaf20cfcd38d98683cf9f33483ed8d4778316f/beams.clinktheme",
         "sha256": "7c4efcc29a18e06513e11fee552a0d215cfb8d6b75c7aafa522f0b9275bf5f64",
         "byteCount": 7946
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "beams-blue",
@@ -793,7 +794,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-beams/releases/download/themes-503b4916050148930d40bd88bcfaf20cfcd38d98683cf9f33483ed8d4778316f/beams-blue.clinktheme",
         "sha256": "67dde8e32ab142f2d497c3ff7389dca489525e48e4c66c2954a75159f78264c3",
         "byteCount": 7951
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "beams-green",
@@ -1190,7 +1192,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-beams/releases/download/themes-503b4916050148930d40bd88bcfaf20cfcd38d98683cf9f33483ed8d4778316f/beams-green.clinktheme",
         "sha256": "b031c8e0a8e3986918e79e2e24abf92f396e20807b9d7af826e518f85fb4f6fd",
         "byteCount": 7967
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "beams-yellow",
@@ -1587,7 +1590,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-beams/releases/download/themes-503b4916050148930d40bd88bcfaf20cfcd38d98683cf9f33483ed8d4778316f/beams-yellow.clinktheme",
         "sha256": "1360d3a8a53423e598eb28f835dee19050ec41b2f971abef9314508fef68f183",
         "byteCount": 7980
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "beams-red",
@@ -1984,7 +1988,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-beams/releases/download/themes-503b4916050148930d40bd88bcfaf20cfcd38d98683cf9f33483ed8d4778316f/beams-red.clinktheme",
         "sha256": "2e9b47113a161b5681b28104cc38b382671bb771ece9045e69242ec65955ccc4",
         "byteCount": 7909
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "beams-sand",
@@ -2381,7 +2386,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-beams/releases/download/themes-503b4916050148930d40bd88bcfaf20cfcd38d98683cf9f33483ed8d4778316f/beams-sand.clinktheme",
         "sha256": "d21df1aa495151edbd2c9170adc146e33a9d1e21ad3e4e60386ab87c677f0222",
         "byteCount": 7968
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "beams-olive",
@@ -2778,7 +2784,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-beams/releases/download/themes-503b4916050148930d40bd88bcfaf20cfcd38d98683cf9f33483ed8d4778316f/beams-olive.clinktheme",
         "sha256": "8a242c82dadd4c667885378cd7b4c69799387cd31322b4896f2f8999c00b9e17",
         "byteCount": 7960
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "beams-pink",
@@ -3175,7 +3182,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-beams/releases/download/themes-503b4916050148930d40bd88bcfaf20cfcd38d98683cf9f33483ed8d4778316f/beams-pink.clinktheme",
         "sha256": "fac3741ac87cc462c7428b9781b9fcf7de33d2c4525ee94ae4f3490b5d19ffb5",
         "byteCount": 7959
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "beams-mono",
@@ -3572,7 +3580,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-beams/releases/download/themes-503b4916050148930d40bd88bcfaf20cfcd38d98683cf9f33483ed8d4778316f/beams-mono.clinktheme",
         "sha256": "790a43420ad57e9da16f87e628aaaa0257e92349e33a0fa603945e36b91161c9",
         "byteCount": 7939
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "beams-classic",
@@ -3969,7 +3978,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-beams/releases/download/themes-503b4916050148930d40bd88bcfaf20cfcd38d98683cf9f33483ed8d4778316f/beams-classic.clinktheme",
         "sha256": "51f336a6000db8a9d17e72ceb05acf5dc75184e28ca050d8d465a5a95ecf01ca",
         "byteCount": 7981
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "beams-rose",
@@ -4366,7 +4376,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-beams/releases/download/themes-503b4916050148930d40bd88bcfaf20cfcd38d98683cf9f33483ed8d4778316f/beams-rose.clinktheme",
         "sha256": "c0f556e0e76db951455de3e39d0e0d221909643f35e08730d595977eb0249c37",
         "byteCount": 8014
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "beams-botanical",
@@ -4763,7 +4774,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-beams/releases/download/themes-503b4916050148930d40bd88bcfaf20cfcd38d98683cf9f33483ed8d4778316f/beams-botanical.clinktheme",
         "sha256": "06fb6787bb41439543ce392457075bb9086e3eb2a1d43a1ebf1ca558ffb3bd3a",
         "byteCount": 8036
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "beams-laser",
@@ -5160,7 +5172,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-beams/releases/download/themes-503b4916050148930d40bd88bcfaf20cfcd38d98683cf9f33483ed8d4778316f/beams-laser.clinktheme",
         "sha256": "fb7de0939215c90db79641f61340f1082a40a358a2f22cb86cd00ffbc7c75e18",
         "byteCount": 7936
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "beams-nordic",
@@ -5557,7 +5570,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-beams/releases/download/themes-503b4916050148930d40bd88bcfaf20cfcd38d98683cf9f33483ed8d4778316f/beams-nordic.clinktheme",
         "sha256": "dc6e63666f459dfeec5514d62bde6401038d3830080c0d1a018629ac62855644",
         "byteCount": 7915
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "beams-purple",
@@ -5954,7 +5968,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-beams/releases/download/themes-503b4916050148930d40bd88bcfaf20cfcd38d98683cf9f33483ed8d4778316f/beams-purple.clinktheme",
         "sha256": "371ac3c75735aa27354432ecdeb208b9b24fb50f7d4fea6397b7317b11e1e23e",
         "byteCount": 7977
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "beams-carbon",
@@ -6351,7 +6366,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-beams/releases/download/themes-503b4916050148930d40bd88bcfaf20cfcd38d98683cf9f33483ed8d4778316f/beams-carbon.clinktheme",
         "sha256": "6a57987701e62c986a5e0de8c8cee63b013e49964ed4d72dfed2a011de01c50c",
         "byteCount": 7966
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "beams-miami",
@@ -6748,7 +6764,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-beams/releases/download/themes-503b4916050148930d40bd88bcfaf20cfcd38d98683cf9f33483ed8d4778316f/beams-miami.clinktheme",
         "sha256": "e101677625d0fcba5524dfa39453f2c62870df8c517007d1ada7d0223ccd29e9",
         "byteCount": 7936
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "beams-navy",
@@ -7145,7 +7162,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-beams/releases/download/themes-503b4916050148930d40bd88bcfaf20cfcd38d98683cf9f33483ed8d4778316f/beams-navy.clinktheme",
         "sha256": "b3659d4682b03a7ed36b6e5c0853539112e8625036b7b313cc92179b0053be8e",
         "byteCount": 7964
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "beams-lavender",
@@ -7542,7 +7560,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-beams/releases/download/themes-503b4916050148930d40bd88bcfaf20cfcd38d98683cf9f33483ed8d4778316f/beams-lavender.clinktheme",
         "sha256": "dec2545f5088ea3cdca367cc285a2976a3eff67cf9d43e61ccf3cfc590553435",
         "byteCount": 7970
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "beams-samurai",
@@ -7939,7 +7958,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-beams/releases/download/themes-503b4916050148930d40bd88bcfaf20cfcd38d98683cf9f33483ed8d4778316f/beams-samurai.clinktheme",
         "sha256": "c13da2cc3e6b3ebc7edf755383a17c6e2dbb787066edcde1b25309e1cade47e1",
         "byteCount": 8016
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "beams-terminal",
@@ -8336,7 +8356,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-beams/releases/download/themes-503b4916050148930d40bd88bcfaf20cfcd38d98683cf9f33483ed8d4778316f/beams-terminal.clinktheme",
         "sha256": "47f95477709e406140aed4961c1b231f5bc0727bc063e8e4e037005b989e3159",
         "byteCount": 7980
-      }
+      },
+      "platform": "both"
     },
     {
       "id": "beams-coffee",
@@ -8733,7 +8754,8 @@
         "url": "https://github.com/anti-ltd/clink-themes-beams/releases/download/themes-503b4916050148930d40bd88bcfaf20cfcd38d98683cf9f33483ed8d4778316f/beams-coffee.clinktheme",
         "sha256": "8d4a23831e3f6875c84158254542e787c3a86b99b82cba8cbdd9ecac422de6e2",
         "byteCount": 7942
-      }
+      },
+      "platform": "both"
     }
   ]
 }

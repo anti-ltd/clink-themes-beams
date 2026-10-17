@@ -3,7 +3,7 @@ name: Release Beams themes
 on:
   push:
     branches: [main]
-    paths: ["Themes/**", "palettes.json", "catalog.json", "manifest.json", "tools/**", "tests/**", ".github/workflows/release.yml"]
+    paths: ["platforms.json", "Themes/**", "palettes.json", "catalog.json", "manifest.json", "tools/**", "tests/**", ".github/workflows/release.yml"]
   workflow_dispatch:
 
 concurrency:
@@ -34,6 +34,8 @@ jobs:
               gh release upload "$tag" "${assets[@]}" --clobber
               gh release edit "$tag" --draft=false --latest
             else
+              # Platform targeting is catalog metadata; keep immutable assets intact.
+              gh release upload "$tag" manifest.json --clobber
               gh release edit "$tag" --latest
             fi
           else
